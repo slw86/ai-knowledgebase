@@ -27,7 +27,7 @@
 
 | Link    | Description |
 | -------- | ------- |
-|  |      |
+| [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work) |      |
 
 ## TOOLS
 
