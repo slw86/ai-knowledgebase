@@ -28,9 +28,9 @@
 | Link    | Description |
 | -------- | ------- |
 | [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work) |      |
+| [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file) | |
 
-## TOOLS
-
+dfdsf
 | Link    | Description |
 | -------- | ------- |
 | [DeepEval](https://docs.confident-ai.com/) |  LLM evaluation framework    |
