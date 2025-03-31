@@ -6,6 +6,13 @@
 | -------- | ------- |
 | [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)  | martinfowler.com description of usage patterns of Gen AI   |
 
+## DOCS
+| Link    | Description |
+| -------- | ------- |
+| [Gemini API Docs](https://ai.google.dev/gemini-api/docs)  |   |
+| [Foundational LLMs & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)         ||
+| [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)       ||
+
 
 ## PRESENTATIONS
 
@@ -16,6 +23,9 @@
 | [Inside GPT – Large Language Models Demystified • Alan Smith • GOTO 2024](https://www.youtube.com/watch?v=MznD2DzlQCc) |  |
 | [Building Production RAG Over Complex Documents](https://www.youtube.com/watch?v=dI_TmTW9S4c) | |
 | [AI Assistance Beyond Code: What Do We Need to Make it Work? • Birgitta Böckeler • GOTO 2024](https://www.youtube.com/watch?v=8jwiABwGC6c) | |
+| [Prompt Engineering](https://youtu.be/CFtX0ZyLSAY?si=SqtZ831BjW7fI5EY)  ||
+| [Foundational LLMs & Text Generation](https://youtu.be/Na3O4Pkbp-U?si=t5yKowOVjhZlk8Fh) |   |
+
 
 ## BOOKS
 
@@ -30,7 +40,7 @@
 | [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work) |      |
 | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file) | |
 
-dfdsf
+## TOOLS 
 | Link    | Description |
 | -------- | ------- |
 | [DeepEval](https://docs.confident-ai.com/) |  LLM evaluation framework    |
