@@ -11,7 +11,7 @@
 | -------- | ------- |
 | [Gemini API Docs](https://ai.google.dev/gemini-api/docs)  |   |
 | [Foundational LLMs & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)         ||
-| [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)       ||
+| [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)       ||
 
 
 ## PRESENTATIONS
