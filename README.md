@@ -40,6 +40,7 @@
 | -------- | ------- |
 | [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work) |      |
 | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file) | |
+| [DAY 1 Livestream - 5-Day Gen AI Intensive Course](https://www.youtube.com/live/WpIfAeCIFc0)|   |
 
 ## TOOLS 
 | Link    | Description |
