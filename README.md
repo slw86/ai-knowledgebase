@@ -12,6 +12,7 @@
 | [Gemini API Docs](https://ai.google.dev/gemini-api/docs)  |   |
 | [Foundational LLMs & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)         ||
 | [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)       ||
+| [Evaluating Large Language Models](https://services.google.com/fh/files/blogs/neurips_evaluation.pdf)||
 
 
 ## PRESENTATIONS
