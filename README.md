@@ -26,6 +26,7 @@
 | [AI Assistance Beyond Code: What Do We Need to Make it Work? • Birgitta Böckeler • GOTO 2024](https://www.youtube.com/watch?v=8jwiABwGC6c) | |
 | [Prompt Engineering](https://youtu.be/CFtX0ZyLSAY?si=SqtZ831BjW7fI5EY)  ||
 | [Foundational LLMs & Text Generation](https://youtu.be/Na3O4Pkbp-U?si=t5yKowOVjhZlk8Fh) |   |
+| [Embeddings & Vector Stores](https://youtu.be/xCAVsst6WJ8?si=WTpehIqFFxUMAHd1) | |
 
 
 ## BOOKS
