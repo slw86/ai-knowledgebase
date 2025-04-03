@@ -5,6 +5,7 @@
 | Link    | Description |
 | -------- | ------- |
 | [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)  | martinfowler.com description of usage patterns of Gen AI   |
+| [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html) | |
 
 ## DOCS
 | Link    | Description |
