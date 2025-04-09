@@ -30,6 +30,7 @@
 | [Prompt Engineering](https://youtu.be/CFtX0ZyLSAY?si=SqtZ831BjW7fI5EY)  ||
 | [Foundational LLMs & Text Generation](https://youtu.be/Na3O4Pkbp-U?si=t5yKowOVjhZlk8Fh) |   |
 | [Embeddings & Vector Stores](https://youtu.be/xCAVsst6WJ8?si=WTpehIqFFxUMAHd1) | |
+| [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)  | The example-driven, practical walkthrough of Large Language Models by Andrej Karpathy |
 
 
 ## BOOKS
